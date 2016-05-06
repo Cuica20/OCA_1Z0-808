@@ -1,0 +1,333 @@
+method equals
+ parameter name arg0
+ parameter type class java.lang.Object
+method toString
+method hashCode
+method compareTo
+ parameter name arg0
+ parameter type class java.lang.String
+method compareTo
+ parameter name arg0
+ parameter type class java.lang.Object
+method indexOf
+ parameter name arg0
+ parameter type class java.lang.String
+ parameter name arg1
+ parameter type int
+method indexOf
+ parameter name arg0
+ parameter type class java.lang.String
+method indexOf
+ parameter name arg0
+ parameter type int
+ parameter name arg1
+ parameter type int
+method indexOf
+ parameter name arg0
+ parameter type int
+method indexOf
+ parameter name arg0
+ parameter type class [C
+ parameter name arg1
+ parameter type int
+ parameter name arg2
+ parameter type int
+ parameter name arg3
+ parameter type class [C
+ parameter name arg4
+ parameter type int
+ parameter name arg5
+ parameter type int
+ parameter name arg6
+ parameter type int
+method indexOf
+ parameter name arg0
+ parameter type class [C
+ parameter name arg1
+ parameter type int
+ parameter name arg2
+ parameter type int
+ parameter name arg3
+ parameter type class java.lang.String
+ parameter name arg4
+ parameter type int
+method valueOf
+ parameter name arg0
+ parameter type int
+method valueOf
+ parameter name arg0
+ parameter type long
+method valueOf
+ parameter name arg0
+ parameter type float
+method valueOf
+ parameter name arg0
+ parameter type boolean
+method valueOf
+ parameter name arg0
+ parameter type class [C
+method valueOf
+ parameter name arg0
+ parameter type class [C
+ parameter name arg1
+ parameter type int
+ parameter name arg2
+ parameter type int
+method valueOf
+ parameter name arg0
+ parameter type class java.lang.Object
+method valueOf
+ parameter name arg0
+ parameter type char
+method valueOf
+ parameter name arg0
+ parameter type double
+method charAt
+ parameter name arg0
+ parameter type int
+method checkBounds
+ parameter name arg0
+ parameter type class [B
+ parameter name arg1
+ parameter type int
+ parameter name arg2
+ parameter type int
+method codePointAt
+ parameter name arg0
+ parameter type int
+method codePointBefore
+ parameter name arg0
+ parameter type int
+method codePointCount
+ parameter name arg0
+ parameter type int
+ parameter name arg1
+ parameter type int
+method compareToIgnoreCase
+ parameter name arg0
+ parameter type class java.lang.String
+method concat
+ parameter name arg0
+ parameter type class java.lang.String
+method contains
+ parameter name arg0
+ parameter type interface java.lang.CharSequence
+method contentEquals
+ parameter name arg0
+ parameter type interface java.lang.CharSequence
+method contentEquals
+ parameter name arg0
+ parameter type class java.lang.StringBuffer
+method copyValueOf
+ parameter name arg0
+ parameter type class [C
+method copyValueOf
+ parameter name arg0
+ parameter type class [C
+ parameter name arg1
+ parameter type int
+ parameter name arg2
+ parameter type int
+method endsWith
+ parameter name arg0
+ parameter type class java.lang.String
+method equalsIgnoreCase
+ parameter name arg0
+ parameter type class java.lang.String
+method format
+ parameter name arg0
+ parameter type class java.util.Locale
+ parameter name arg1
+ parameter type class java.lang.String
+ parameter name arg2
+ parameter type class [Ljava.lang.Object;
+method format
+ parameter name arg0
+ parameter type class java.lang.String
+ parameter name arg1
+ parameter type class [Ljava.lang.Object;
+method getBytes
+ parameter name arg0
+ parameter type int
+ parameter name arg1
+ parameter type int
+ parameter name arg2
+ parameter type class [B
+ parameter name arg3
+ parameter type int
+method getBytes
+ parameter name arg0
+ parameter type class java.nio.charset.Charset
+method getBytes
+ parameter name arg0
+ parameter type class java.lang.String
+method getBytes
+method getChars
+ parameter name arg0
+ parameter type int
+ parameter name arg1
+ parameter type int
+ parameter name arg2
+ parameter type class [C
+ parameter name arg3
+ parameter type int
+method getChars
+ parameter name arg0
+ parameter type class [C
+ parameter name arg1
+ parameter type int
+method indexOfSupplementary
+ parameter name arg0
+ parameter type int
+ parameter name arg1
+ parameter type int
+method intern
+method isEmpty
+method join
+ parameter name arg0
+ parameter type interface java.lang.CharSequence
+ parameter name arg1
+ parameter type class [Ljava.lang.CharSequence;
+method join
+ parameter name arg0
+ parameter type interface java.lang.CharSequence
+ parameter name arg1
+ parameter type interface java.lang.Iterable
+method lastIndexOf
+ parameter name arg0
+ parameter type int
+method lastIndexOf
+ parameter name arg0
+ parameter type class java.lang.String
+method lastIndexOf
+ parameter name arg0
+ parameter type class [C
+ parameter name arg1
+ parameter type int
+ parameter name arg2
+ parameter type int
+ parameter name arg3
+ parameter type class java.lang.String
+ parameter name arg4
+ parameter type int
+method lastIndexOf
+ parameter name arg0
+ parameter type class java.lang.String
+ parameter name arg1
+ parameter type int
+method lastIndexOf
+ parameter name arg0
+ parameter type int
+ parameter name arg1
+ parameter type int
+method lastIndexOf
+ parameter name arg0
+ parameter type class [C
+ parameter name arg1
+ parameter type int
+ parameter name arg2
+ parameter type int
+ parameter name arg3
+ parameter type class [C
+ parameter name arg4
+ parameter type int
+ parameter name arg5
+ parameter type int
+ parameter name arg6
+ parameter type int
+method lastIndexOfSupplementary
+ parameter name arg0
+ parameter type int
+ parameter name arg1
+ parameter type int
+method length
+method matches
+ parameter name arg0
+ parameter type class java.lang.String
+method nonSyncContentEquals
+ parameter name arg0
+ parameter type class java.lang.AbstractStringBuilder
+method offsetByCodePoints
+ parameter name arg0
+ parameter type int
+ parameter name arg1
+ parameter type int
+method regionMatches
+ parameter name arg0
+ parameter type int
+ parameter name arg1
+ parameter type class java.lang.String
+ parameter name arg2
+ parameter type int
+ parameter name arg3
+ parameter type int
+method regionMatches
+ parameter name arg0
+ parameter type boolean
+ parameter name arg1
+ parameter type int
+ parameter name arg2
+ parameter type class java.lang.String
+ parameter name arg3
+ parameter type int
+ parameter name arg4
+ parameter type int
+method replace
+ parameter name arg0
+ parameter type char
+ parameter name arg1
+ parameter type char
+method replace
+ parameter name arg0
+ parameter type interface java.lang.CharSequence
+ parameter name arg1
+ parameter type interface java.lang.CharSequence
+method replaceAll
+ parameter name arg0
+ parameter type class java.lang.String
+ parameter name arg1
+ parameter type class java.lang.String
+method replaceFirst
+ parameter name arg0
+ parameter type class java.lang.String
+ parameter name arg1
+ parameter type class java.lang.String
+method split
+ parameter name arg0
+ parameter type class java.lang.String
+method split
+ parameter name arg0
+ parameter type class java.lang.String
+ parameter name arg1
+ parameter type int
+method startsWith
+ parameter name arg0
+ parameter type class java.lang.String
+ parameter name arg1
+ parameter type int
+method startsWith
+ parameter name arg0
+ parameter type class java.lang.String
+method subSequence
+ parameter name arg0
+ parameter type int
+ parameter name arg1
+ parameter type int
+method substring
+ parameter name arg0
+ parameter type int
+method substring
+ parameter name arg0
+ parameter type int
+ parameter name arg1
+ parameter type int
+method toCharArray
+method toLowerCase
+ parameter name arg0
+ parameter type class java.util.Locale
+method toLowerCase
+method toUpperCase
+method toUpperCase
+ parameter name arg0
+ parameter type class java.util.Locale
+method trim
