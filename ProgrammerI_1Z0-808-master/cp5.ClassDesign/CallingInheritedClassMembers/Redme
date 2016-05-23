@@ -1,0 +1,17 @@
+you can use the keyword this or super to access a member of the class or parent class that are accessible.
+But this only can used for members of the current class.
+Example:
+
+public void displaySharkDetails() {
+	System.out.print("Shark with age: "+super.getAge());
+	System.out.print(" and "+super.size+" meters long");
+	System.out.print(" with "+super.numberOfFins+" fins"); // DOES NOT COMPILE
+}
+
+The correct:
+
+public void displaySharkDetails() {
+	System.out.print("Shark with age: "+super.getAge());
+	System.out.print(" and "+super.size+" meters long");
+	System.out.print(" with "+this.numberOfFins+" fins");
+}

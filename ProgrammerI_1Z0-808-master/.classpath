@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="cp1.JavaBuildingBlocks"/>
+	<classpathentry kind="src" path="cp2.OperatorsAndStatements"/>
+	<classpathentry kind="src" path="cp3.CoreJavaAPIs"/>
+	<classpathentry kind="src" path="cp4.MethodsAndEncapsulation"/>
+	<classpathentry kind="src" path="cp5.ClassDesign"/>
+	<classpathentry kind="src" path="cp6.Exceptions"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

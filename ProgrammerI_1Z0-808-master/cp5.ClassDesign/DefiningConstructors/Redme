@@ -1,0 +1,21 @@
+In Java, the first statement of every constructor is either a call to another 
+constructor within the class, using this(), or a call to a constructor in
+the direct parent class, using super(). Otherwise will not compile.
+
+for exemple:
+
+public class Zoo {
+	public Zoo() {
+	System.out.println("Zoo created");
+	super(); // DOES NOT COMPILE
+	}
+}
+
+public class Zoo {
+
+	public Zoo() {
+		super();
+		System.out.println("Zoo created");
+		super(); // DOES NOT COMPILE
+	}
+}

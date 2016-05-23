@@ -1,0 +1,2 @@
+package animals;
+class Rabbit {}

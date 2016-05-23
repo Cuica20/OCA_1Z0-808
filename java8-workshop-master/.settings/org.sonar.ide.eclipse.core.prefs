@@ -1,5 +1,5 @@
 eclipse.preferences.version=1
-extraProperties=sonar.host.url\=http\://localhost\:9000/sonar/\r\nsonar.jdbc.password\=Admin456\r\nsonar.jdbc.url\=jdbc\:mysql\://localhost\:3306/sonar?useUnicode\=true&characterEncoding\=utf8\r\nsonar.jdbc.username\=root
+extraProperties=
 projectKey=com.nurkiewicz\:java8
 serverUrl=http\://localhost\:9000
 version=2
